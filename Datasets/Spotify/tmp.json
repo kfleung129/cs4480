@@ -1,0 +1,101 @@
+{
+  "success": true,
+  "data": {
+    "uri": "spotify:album:1HMLpmZAnNyl9pxvOnTovV",
+    "name": "NewJeans 1st EP 'New Jeans'",
+    "cover": {
+      "uri": "https://i.scdn.co/image/ab67616d00001e029d28fd01859073a3ae6ea209"
+    },
+    "year": 2022,
+    "month": 8,
+    "day": 1,
+    "track_count": 4,
+    "discs": [
+      {
+        "number": 1,
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "tracks": [
+          {
+            "uri": "spotify:track:2pIUpMhHL6L9Z5lnKxJJr9",
+            "playcount": 305040940,
+            "name": "Attention",
+            "popularity": 0,
+            "number": 1,
+            "duration": 180066,
+            "explicit": false,
+            "playable": true,
+            "artists": [
+              {
+                "name": "NewJeans",
+                "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d",
+                "image": { "uri": "" }
+              }
+            ]
+          },
+          {
+            "uri": "spotify:track:0a4MMyCrzT0En247IhqZbD",
+            "playcount": 423182180,
+            "name": "Hype Boy",
+            "popularity": 0,
+            "number": 2,
+            "duration": 179026,
+            "explicit": false,
+            "playable": true,
+            "artists": [
+              {
+                "name": "NewJeans",
+                "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d",
+                "image": { "uri": "" }
+              }
+            ]
+          },
+          {
+            "uri": "spotify:track:2DwUdMJ5uxv20EhAildreg",
+            "playcount": 178239789,
+            "name": "Cookie",
+            "popularity": 0,
+            "number": 3,
+            "duration": 235562,
+            "explicit": false,
+            "playable": true,
+            "artists": [
+              {
+                "name": "NewJeans",
+                "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d",
+                "image": { "uri": "" }
+              }
+            ]
+          },
+          {
+            "uri": "spotify:track:5expoVGQPvXuwBBFuNGqBd",
+            "playcount": 129357343,
+            "name": "Hurt",
+            "popularity": 0,
+            "number": 4,
+            "duration": 177946,
+            "explicit": false,
+            "playable": true,
+            "artists": [
+              {
+                "name": "NewJeans",
+                "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d",
+                "image": { "uri": "" }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "copyrights": ["\u00a9 2022 ADOR Co., Ltd.", "\u2117 2022 ADOR Co., Ltd."],
+    "artists": [
+      {
+        "name": "NewJeans",
+        "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d",
+        "image": { "uri": "" }
+      }
+    ],
+    "related": { "releases": [] },
+    "type": "EP",
+    "label": "ADOR"
+  }
+}
